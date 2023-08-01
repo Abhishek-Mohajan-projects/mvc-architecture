@@ -1,1 +1,1 @@
-﻿# mvc-architecture
+﻿# mvc-architecture with cors setup
